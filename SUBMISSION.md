@@ -20,7 +20,7 @@
 
 ## Live URL
 
-Pending deploy — see **Finish deploy** below if no production URL is listed in the README yet. Once deployed, the production URL belongs here and in `README.md`.
+https://my-doc-app.vercel.app
 
 ## Seeded credentials
 
@@ -32,7 +32,9 @@ Pending deploy — see **Finish deploy** below if no production URL is listed in
 
 ## Walkthrough video
 
-Record a 3–5 minute walkthrough and put the URL in `WALKTHROUGH_VIDEO_URL.txt`. The Google Drive folder for the assignment deliverables is assembled by the submitter.
+https://www.loom.com/share/5e2a64071e4c45368a7d54320edaba9a
+
+Also recorded in `WALKTHROUGH_VIDEO_URL.txt`. The Google Drive folder for the assignment deliverables is assembled by the submitter.
 
 ## Finish deploy (if still needed)
 

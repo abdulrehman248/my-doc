@@ -29,7 +29,9 @@ npm test
 
 ## Live URL
 
-Pending deploy on Vercel Hobby. After deploy, replace this section with the production URL. Setup steps are in `SUBMISSION.md`.
+https://my-doc-app.vercel.app
+
+Health check: https://my-doc-app.vercel.app/api/health
 
 ## Upload
 
